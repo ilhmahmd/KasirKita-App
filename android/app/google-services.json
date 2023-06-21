@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "20229747452",
+    "project_id": "kasirkita-b0e00",
+    "storage_bucket": "kasirkita-b0e00.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20229747452:android:9a11543c82bec2eff4dd79",
+        "android_client_info": {
+          "package_name": "com.example.tugas_besar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "20229747452-pbk0n8223seocdg32e6bje2a3pb4k4ma.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRk5HHl4R2ueGjU5TeWqPmACfnxkLFDUE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "20229747452-pbk0n8223seocdg32e6bje2a3pb4k4ma.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
